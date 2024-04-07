@@ -2,6 +2,8 @@
 
 This is a Telegram bot integrated with the Booknetic platform, allowing users to book services through Telegram.
 
+Test Bot: https://t.me/ZeynallowTestBot
+
 ## Instructions
 
 1. **Create Telegram Bot**: To use this bot, you need to create a Telegram bot first. Follow the [official documentation](https://core.telegram.org/bots#botfather) to create your bot and obtain the bot token.
